@@ -1,4 +1,4 @@
-
+![logo](https://github.com/DheerajDawande/DheerajDawande/blob/main/Pablo%20Moralez.png)
 <h1 align="center">Hi 👋, I'm Dheeraj Dawande | Xposure</h1>
 <h3 align="center">GATE CSE Aspirant | C++ & DSA Learner | Building Consistency Daily</h3>
 
