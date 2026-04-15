@@ -1,14 +1,12 @@
 ![logo](https://github.com/DheerajDawande/DheerajDawande/blob/main/Pablo%20Moralez.png)
 <h1 align="center">Hi 👋, I'm Dheeraj Dawande | Xposure</h1>
-<h3 align="center">GATE CSE Aspirant | C++ & DSA Learner | Building Consistency Daily</h3>
+<h3 align="center">GATE CSE Aspirant | JAVA & DSA Learner | Building Consistency Daily</h3>
 
 <img align="right" alt="GATE CSE Aspirant" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dheerajdawande&label=Profile%20views&color=0e75b6&style=flat" alt="dheerajdawande" /> </p>
 
-- 🌱 I’m currently learning **C++ DSA & CORE CS SUBJECTS**
-
-- 📝 I regularly write articles on [www.youtube.com/@Xposure0138Y](www.youtube.com/@Xposure0138Y)
+- 🌱 I’m currently learning **JAVA DSA & CORE CS SUBJECTS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
